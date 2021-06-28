@@ -28,7 +28,7 @@ starting the surf shop.
 
 
 
-![here](https://github.com/halmasieh/surfs_up/blob/main/hist_June.PNG)
+![here](https://github.com/halmasieh/Surfs-Up/blob/main/Images/hist_June.PNG)
 
 
 
@@ -40,7 +40,7 @@ We can infer that a vast majority of the observations were over 74 degrees.
 
 
 
-![here](https://github.com/halmasieh/surfs_up/blob/main/hist_Dec.PNG)
+![here](https://github.com/halmasieh/surfs_up/blob/main/Images/hist_Dec.PNG)
 
 
 
@@ -57,7 +57,7 @@ We can infer that a vast majority of the observations were over 65 degrees.
 
 
 
-![here](https://github.com/halmasieh/surfs_up/blob/main/June_Dec_table.PNG)
+![here](https://github.com/halmasieh/surfs_up/blob/main/Images/June_Dec_table.PNG)
 
 
 
@@ -86,7 +86,7 @@ We performed this analysis on personels over sixty five years old with different
 
 
 
-![here](https://github.com/halmasieh/surfs_up/blob/main/hist_Dec.PNG)
+![here](https://github.com/halmasieh/surfs_up/blob/main/Images/hist_Dec.PNG)
 
 
 
@@ -97,7 +97,7 @@ The table below shows the trainees in the mentorship eligiblity program accordin
 
 
 
-![here](https://github.com/halmasieh/surfs_up/blob/main/hist_Dec.PNG)
+![here](https://github.com/halmasieh/surfs_up/blob/main/Images/hist_Dec.PNG)
 
 
 
