@@ -40,7 +40,7 @@ We can infer that a vast majority of the observations were over 74 degrees.
 
 
 
-![here](https://github.com/halmasieh/surfs_up/blob/main/Images/hist_Dec.PNG)
+![here](https://github.com/halmasieh/Surfs-Up/blob/main/Images/hist_Dec.PNG)
 
 
 
@@ -57,7 +57,7 @@ We can infer that a vast majority of the observations were over 65 degrees.
 
 
 
-![here](https://github.com/halmasieh/surfs_up/blob/main/Images/June_Dec_table.PNG)
+![here](https://github.com/halmasieh/Surfs-Up/blob/main/Images/June_Dec_table.PNG)
 
 
 
