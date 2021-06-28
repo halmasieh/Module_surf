@@ -74,34 +74,52 @@ like June will definitely bring a better financial return than the months with l
 
 ## Summary
 
-In fact "Silver Tsunami" is a metaphor used to describe the expected increase in the senior population. Today 15% of Americans are 65 or older and the aging population
-can bring positive change to healthcare and senior living. Avtually, there are three main areas of our economy and society that will be most affected by 
-- Health Care Resources
-- Economic Struggles
-- Workforce Influence
-
-Focus on the latter, lest all this sound hopeless and awful, many seniors will stay healthy long enough to work past the age they may have had in mind for retirement. 
-We performed this analysis on personels over sixty five years old with different job titles and the results are shown in the following table as:
+We performed a query to retrieve the pricipitation scores of June and the results are shown in the following
+figure as: 
 
 
 
 
-![here](https://github.com/halmasieh/surfs_up/blob/main/Images/hist_Dec.PNG)
 
 
 
-Most people over 65 years who retire soon are Engineers and Senior Staffs, repectively, therefore, the need to employ these two roles is a priority.
-The rest of roles will need to be filled are Staff, Senior Engineer, Technique Leader, Assisstant Engineer and Manager, respectively.
-
-The table below shows the trainees in the mentorship eligiblity program according to the different job titles:
-
-
-
-![here](https://github.com/halmasieh/surfs_up/blob/main/Images/hist_Dec.PNG)
+![here](https://github.com/halmasieh/Surfs-Up/blob/main/Images/June_prcp.png)
 
 
 
 
-Comparing the above two tables, it is quite clear that the number of qualified trainees in the mentorship program who can replace with 
-the silver tsunami retirees is not enough and Pewlett-Hackard needs to train more people to be able to hold various roles in this large company.
-The code for the tables is available [here](https://github.com/halmasieh/Pewlett-Hackard-Analysis/blob/main/silver_tsunami.sql). 
+
+
+
+The non-zero amounts of pricipitation obtained for the month of June from 2010-2015. The highest amount of 
+pricipitation has been experienced in 2010. This trend has been decreased in 2011, 2015 and 2014, respectively.
+
+Similarly the following figure shows the precipitation in December from 2010-2016.
+
+
+
+
+
+
+![here](https://github.com/halmasieh/Surfs-Up/blob/main/Images/Dec_prcp.png)
+
+
+
+
+
+
+
+In general, the highest amount of pricipitation is in 2012 and decreased in 2016, 2011 and 2010, respectively.
+The amount of pricipitation has been zero for unreported years.
+
+
+
+
+
+
+
+
+
+
+
+
